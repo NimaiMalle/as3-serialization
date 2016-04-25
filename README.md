@@ -1,4 +1,4 @@
-# BCG Serialization
+# Serialization
 
 Functions for JSON-derived ActionScript Objects and instantiating typed ActionScript classes, and visa versa.
 
@@ -8,7 +8,7 @@ It is best practice never to use ActionScript Object instances in a large code-b
 
 In order to avoid using un-typed dynamic property buckets (Object), and be data driven, we’ve grown a substantial library for serializing and deserializing strongly typed ActionScript class instances.
 
-Our library makes heavy use of the AS3 Commons *[reflec*t](http://www.as3commons.org/as3-commons-reflect/) library.  Please consult their documentation and familiarize yourself with the Type, and Field classes in particular.
+Our library makes heavy use of the AS3 Commons [reflect](http://www.as3commons.org/as3-commons-reflect/) library.  Please consult their documentation and familiarize yourself with the Type, and Field classes in particular.
 
 ## JSON Data vs. JSON Object
 
